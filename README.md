@@ -7,10 +7,10 @@ Software Developer and Designer.
 I am a BE Computer Engineer with a knack for Python, AI, ML, and a touch of Android and blockchain magic. ✨
 I love crafting intelligent solutions that push boundaries and solve real-world problems.
 My toolkit includes: 
-Python: My go-to language for bringing ideas to life 
-AI/ML: Passionate about neural networks, deep learning, and exploring the future of intelligent systems 
-Android: Building apps that seamlessly connect people and technology 
-Blockchain: Fascinated by the potential of decentralized systems to create trust and transparency ⛓️
+**Python:** My go-to language for bringing ideas to life 
+**AI/ML:** Passionate about neural networks, deep learning, and exploring the future of intelligent systems 
+**Android:** Building apps that seamlessly connect people and technology 
+**Blockchain:** Fascinated by the potential of decentralized systems to create trust and transparency ⛓️
 
 * 🌍  I'm based in India 🇮🇳
 * ✉️  You can contact me at [swapnil.karpe17nov@gmail.com](mailto:swapnil.karpe17nov@gmail.com)
